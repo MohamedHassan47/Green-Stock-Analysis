@@ -15,4 +15,5 @@ In this picture the results for 2018 after using the code is 0.281
 In this picture the results for 2017 after using the code is 0.251
 
 **Summary**
-After 
+
+After looking at the project as a whole a relized the pros and cons. For example A pro results are 4 times faster to find. A con is the bigger the data the longer it would take to get the results. Another pro is that the information is very well organized. Another con is the code takes a while to type out. 
